@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Game</string>
+    <string name="image_x_o">xORo</string>
+    <string name = "restBt">Rest</string>
+    <string name="gridFrame">Grid</string>
+
+    <string name="text"> X Turn Tap To Play</string>
+
+</resources>
